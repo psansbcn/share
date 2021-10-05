@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "612231a042ef87e7e8d25605"
+  },
+  "name": "Robert",
+  "Surname": "Smith",
+  "Age": 53
+},{
+  "_id": {
+    "$oid": "612231c242ef87e7e8d25606"
+  },
+  "name": "Beth",
+  "Surname": "Gibbons",
+  "Age": 44
+},{
+  "_id": {
+    "$oid": "612231d742ef87e7e8d25607"
+  },
+  "name": "Max",
+  "Surname": "Ritter",
+  "Age": 28
+},{
+  "_id": {
+    "$oid": "612231e642ef87e7e8d25608"
+  },
+  "name": "Jo",
+  "Surname": "Grant",
+  "Age": 62
+}]

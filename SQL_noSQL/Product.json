@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "61212547f6fa4e9932f3d422"
+  },
+  "product": "Pears",
+  "type": "fruit",
+  "price": {
+    "$numberDecimal": "2.90"
+  }
+},{
+  "_id": {
+    "$oid": "612125e3f6fa4e9932f3d423"
+  },
+  "product": "Oranges",
+  "type": "fruit",
+  "price": {
+    "$numberDecimal": "2.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212622f6fa4e9932f3d424"
+  },
+  "product": "Green beans",
+  "type": "Vegetable",
+  "price": {
+    "$numberDecimal": "4.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212630f6fa4e9932f3d425"
+  },
+  "product": "Potatoes",
+  "type": "Vegetable",
+  "price": {
+    "$numberDecimal": "2.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212649f6fa4e9932f3d426"
+  },
+  "product": "Wallnuts",
+  "type": "Nuts",
+  "price": {
+    "$numberDecimal": "7.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212655f6fa4e9932f3d427"
+  },
+  "product": "Pistachios",
+  "type": "Nuts",
+  "price": {
+    "$numberDecimal": "14.50"
+  }
+},{
+  "_id": {
+    "$oid": "6121266af6fa4e9932f3d428"
+  },
+  "product": "Cod",
+  "type": "Fish",
+  "price": {
+    "$numberDecimal": "10.50"
+  }
+},{
+  "_id": {
+    "$oid": "6121267cf6fa4e9932f3d429"
+  },
+  "product": "Sea Bass",
+  "type": "Fish",
+  "price": {
+    "$numberDecimal": "13.50"
+  }
+},{
+  "_id": {
+    "$oid": "6121269af6fa4e9932f3d42a"
+  },
+  "product": "Mussels",
+  "type": "Shellfish",
+  "price": {
+    "$numberDecimal": "9.00"
+  }
+},{
+  "_id": {
+    "$oid": "612126b4f6fa4e9932f3d42b"
+  },
+  "product": "Clams",
+  "type": "Shellfish",
+  "price": {
+    "$numberDecimal": "6.50"
+  }
+},{
+  "_id": {
+    "$oid": "612126d4f6fa4e9932f3d42c"
+  },
+  "product": "Octopus",
+  "type": "Seafood",
+  "price": {
+    "$numberDecimal": "11.00"
+  }
+},{
+  "_id": {
+    "$oid": "612126f7f6fa4e9932f3d42d"
+  },
+  "product": "Squid",
+  "type": "Seafood",
+  "price": {
+    "$numberDecimal": "7.00"
+  }
+},{
+  "_id": {
+    "$oid": "61212722f6fa4e9932f3d42e"
+  },
+  "product": "Tia Maria",
+  "type": "Liquor",
+  "price": {
+    "$numberDecimal": "21.00"
+  }
+},{
+  "_id": {
+    "$oid": "6121275df6fa4e9932f3d42f"
+  },
+  "product": "Limoncello",
+  "type": "Liquor",
+  "price": {
+    "$numberDecimal": "15.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212787f6fa4e9932f3d430"
+  },
+  "product": "Tonic Water",
+  "type": "Soft_drink",
+  "price": {
+    "$numberDecimal": "3.50"
+  }
+},{
+  "_id": {
+    "$oid": "61212795f6fa4e9932f3d431"
+  },
+  "product": "Soda",
+  "type": "Soft_drink",
+  "price": {
+    "$numberDecimal": "2.50"
+  }
+},{
+  "_id": {
+    "$oid": "612127a5f6fa4e9932f3d432"
+  },
+  "product": "Turbio",
+  "type": "Wine",
+  "price": {
+    "$numberDecimal": "2.50"
+  }
+},{
+  "_id": {
+    "$oid": "612127b5f6fa4e9932f3d433"
+  },
+  "product": "Muga",
+  "type": "Wine",
+  "price": {
+    "$numberDecimal": "4.00"
+  }
+}]

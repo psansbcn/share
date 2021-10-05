@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61212269f6fa4e9932f3d41b"
+  },
+  "name": "Fresh",
+  "type": "Fruit & Vegetables",
+  "location": {
+    "addres": "Jamestown Road, 5",
+    "PC": "NW1"
+  }
+},{
+  "_id": {
+    "$oid": "61212408f6fa4e9932f3d41c"
+  },
+  "name": "Nemo",
+  "type": "Fish Mongers",
+  "location": {
+    "addres": "Tottenham Court Road, 124",
+    "PC": "W1C"
+  }
+},{
+  "_id": {
+    "$oid": "61212492f6fa4e9932f3d41e"
+  },
+  "name": "Beat Box",
+  "type": "Wine & Liquor",
+  "location": {
+    "addres": "Charlotte Street, 32",
+    "PC": "W1C"
+  }
+},{
+  "_id": {
+    "$oid": "612124ccf6fa4e9932f3d41f"
+  },
+  "name": "Superama",
+  "type": "Supermarket",
+  "location": {
+    "addres": "Culiacan 40",
+    "PC": "NW6"
+  }
+}]
