@@ -1,2 +1,2 @@
 # share
-Compilation of notebooks
+This repository is a compilation of several notebooks related to varous projects
